@@ -1,0 +1,60 @@
+10% where we have 45.1 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 67.07% where we got 100 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.08
+  Average time of training: 0.46 seconds.
+
+20% where we have 90.2 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 77.2% where we got 115 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.06
+  Average time of training: 0.9 seconds.
+
+30% where we have 135.29999999999998 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 83.2% where we got 124 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.03
+  Average time of training: 1.31 seconds.
+
+40% where we have 180.4 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 85.33% where we got 127 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.02
+  Average time of training: 1.68 seconds.
+
+50% where we have 225.5 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 86.13% where we got 129 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.01
+  Average time of training: 2.08 seconds.
+
+60% where we have 270.59999999999997 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 87.07% where we got 130 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.01
+  Average time of training: 2.63 seconds.
+
+70% where we have 315.7 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 87.2% where we got 130 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.01
+  Average time of training: 2.89 seconds.
+
+80% where we have 360.8 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 88.53% where we got 132 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.01
+  Average time of training: 3.44 seconds.
+
+90% where we have 405.90000000000003 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 87.73% where we got 131 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.0
+  Average time of training: 4.08 seconds.
+
+100% where we have 451.0 Training and 150 Testing.
+Note: Averages were calculated with 5 iterations and rounded to 2 decimal places:
+  Mean Accuracy: 88.0% where we got 132 correct out of 150.
+  Standard Deviation of Mean Accuracy: 0.0
+  Average time of training: 4.34 seconds.
+
